@@ -23,7 +23,7 @@ I’m a Data Analyst with 3+ years of experience, skilled in SQL, Power BI, Exce
 
 - **Project A:** Analyzed customer purchasing behavior using SQL and visualized insights in Power BI to recommend target segments.  
 - **Project B:** Built advanced SQL queries and reports to uncover revenue drivers and customer segmentation.
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Dashboard Design:** Designed interactive dashboards in Power BI and Excel that supported decision-making across teams.
 
 ## 🌱 Currently Learning 
 
