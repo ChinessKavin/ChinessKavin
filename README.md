@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I am Happiness Kanife </h1>
 <h3 align="left">I’m a Data Analyst with a strong background in Mathematics and Statistics.I am analytically curious with proficiency working with Python,Power BI,Excel and SQL.
-  I focus on turning data into clear, actionable insights that help businesses make smarter decisions. Currently, I’m expanding my knowledge toward Data Science, with a strong interest in automation.</h3>
+  I focus on turning data into clear, actionable insights that help businesses make smarter decisions. Currently, I’m expanding my knowledge toward Data Engineering, with a strong interest in automation.</h3>
 
 <img align="right" alt="da" width="400" src="https://proeffico.com/wp-content/uploads/2022/09/daonline.gif">
 
