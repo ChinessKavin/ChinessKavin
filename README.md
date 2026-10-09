@@ -35,4 +35,4 @@ DataCamp Associate Data Analyst · HackerRank SQL (Advanced) · dbt Fundamentals
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/kanifehappiness/) · [Portfolio](https://linktr.ee/kanifehappiness) · [kanifehappiness@gmail.com](mailto:kanifehappiness@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/kanifehappiness/) · [Portfolio](https://github.com/ChinessKavin) · [kanifehappiness@gmail.com](mailto:kanifehappiness@gmail.com)
