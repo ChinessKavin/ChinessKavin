@@ -1,20 +1,38 @@
-<h1 align="center">Hi 👋, I am Happiness Kanife </h1>
-<h3 align="left">I’m a Data Analyst with a strong background in Mathematics and Statistics.I am analytically curious with proficiency working with Python,Power BI,Excel and SQL.
-  I focus on turning data into clear, actionable insights that help businesses make smarter decisions. Currently, I’m expanding my knowledge toward Data Engineering, with a strong interest in automation.</h3>
+# Happiness Kanife
 
-<img align="right" alt="da" width="400" src="https://proeffico.com/wp-content/uploads/2022/09/daonline.gif">
+**Business Intelligence & Data Analyst** · South Africa · Open to remote roles with US companies
 
-<!-- 🔗 Update these links with your own social media and contact information -->
-<p align="left">
-  <a href="https://www.linkedin.com/in/kanifehappiness/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+I build the analytics layer for an e-commerce game publisher. I consolidate Shopify, referral, GA4, and Meta Ads data into one dimensional model. I deliver it through KPI dashboards the team uses for quarterly planning. My work sits between marketing and sales data.
 
-- 📫 How to reach me **kanifehappiness@gmail.com**
+Most of what I build answers one of three questions: what should we buy or spend, can we trust this number, and where are customers dropping off.
 
-<p align="left">
-</p>
+## What I work on
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+**Data modelling.** I turn fragmented sources into fact and dimension tables. This creates a single source of truth for reporting. I keep a change log that anyone on the team can follow without me there.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Data Project ](https://linktr.ee/kanifehappiness)
+**Reporting that holds up.** I own Power BI and HTML dashboards. Validation checks, shared metric logic, and row-level security sit behind them.
+
+**Funnel analysis.** I track traffic through checkout to order and find where customers drop off. I remove bot carts and align date windows so the abandonment rate is real.
+
+**Campaign measurement.** I measure Meta campaigns on spend, cost per result, click-through rate, and attributed sales. I flag campaigns that can't be judged because tracking is missing.
+
+**Recommendations.** I end each analysis with an action, an owner, and an expected impact.
+
+## Stack
+
+`SQL` · `Python` · `Power BI` · `DAX` · `Power Query` · `dbt` · `Databricks` · `AWS` · `Shopify` · `GA4` · `Meta Ads` · `Excel`
+
+## Projects
+- **[Marketing Campaign Performance & Conversion Funnel Analysis with A/B Testing](https://github.com/ChinessKavin/Marketing-Funnel-Diagnostics-AB-Testing-Campaign-Performance-Analysis).** Python, Pandas,matplotlib,scipy.
+- **[Performance Analytics Dashboard](https://github.com/ChinessKavin/Employees-Performance-Tracker-Analysis-With-Power-BI).** Power BI, DAX, data modelling.
+- **[Hospital Patient Encounters & Cost Analysis](https://github.com/ChinessKavin/Hospital-Patient-Encounters-And-Cost-Analysis).** SQL, KPI analysis.
+
+## Education and certifications
+
+BSc Statistics and Computer Science, University of Port Harcourt. Former Data Analytics Instructor, 2,000+ learners taught.
+
+DataCamp Associate Data Analyst · HackerRank SQL (Advanced) · dbt Fundamentals · Databricks Fundamentals · AWS Cloud Practitioner
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/kanifehappiness/) · [Portfolio](https://linktr.ee/kanifehappiness) · [kanifehappiness@gmail.com](mailto:kanifehappiness@gmail.com)
