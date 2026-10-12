@@ -10,11 +10,11 @@ Most of what I build answers one of three questions: what should we buy or spend
 
 **Data modelling.** I turn fragmented sources into fact and dimension tables. This creates a single source of truth for reporting. I keep a change log that anyone on the team can follow without me there.
 
+**Campaign measurement.** I connect ad spend, traffic sources, sign-ups, and orders so Marketing sees accurate CAC, ROAS, conversion, and LTV. I compare paid with organic sales and flag campaigns that can't be judged because tracking is missing.
+
 **Reporting that holds up.** I own Power BI and HTML dashboards. Validation checks, shared metric logic, and row-level security sit behind them.
 
 **Funnel analysis.** I track traffic through checkout to order and find where customers drop off. I remove bot carts and align date windows so the abandonment rate is real.
-
-**Campaign measurement.** I measure Meta campaigns on spend, cost per result, click-through rate, and attributed sales. I flag campaigns that can't be judged because tracking is missing.
 
 **Recommendations.** I end each analysis with an action, an owner, and an expected impact.
 
