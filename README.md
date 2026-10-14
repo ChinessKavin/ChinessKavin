@@ -1,6 +1,6 @@
 # Happiness Kanife
 
-**Business Intelligence & Data Analyst** · South Africa · Open to remote roles with US companies
+**Business Intelligence & Data Analyst** · South Africa · Open to remote roles.
 
 I build the analytics layer for an e-commerce game publisher. I consolidate Shopify, referral, GA4, and Meta Ads data into one dimensional model. I deliver it through KPI dashboards the team uses for quarterly planning. My work sits between marketing and sales data.
 
