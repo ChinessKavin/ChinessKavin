@@ -2,9 +2,9 @@
 
 **Business Intelligence & Data Analyst** · South Africa · Open to remote roles.
 
-I build the analytics layer for an e-commerce game publisher. I consolidate Shopify, referral, GA4, and Meta Ads data into one dimensional model. I deliver it through KPI dashboards the team uses for quarterly planning. My work sits between marketing and sales data.
+Data Analyst with 3+ years of experience in e-commerce, marketing, and sales analytics. I help businesses answer difficult questions, like where to spend their money, which numbers they can trust, and where customers are dropping off.
 
-Most of what I build answers one of three questions: what should we buy or spend, can we trust this number, and where are customers dropping off.
+**Most of what I build answers one of three questions:** what should we buy or spend, can we trust this number, and where are customers dropping off.
 
 ## What I work on
 
@@ -12,15 +12,15 @@ Most of what I build answers one of three questions: what should we buy or spend
 
 **Campaign measurement.** I connect ad spend, traffic sources, sign-ups, and orders so Marketing sees accurate CAC, ROAS, conversion, and LTV. I compare paid with organic sales and flag campaigns that can't be judged because tracking is missing.
 
-**Reporting that holds up.** I own Power BI and HTML dashboards. Validation checks, shared metric logic, and row-level security sit behind them.
+**Reporting that holds up.**  I build and maintain Power BI dashboards and semantic models, with validation checks, shared metric logic, and row-level security behind them.
 
-**Funnel analysis.** I track traffic through checkout to order and find where customers drop off. I remove bot carts and align date windows so the abandonment rate is real.
+**Funnel analysis.** I track traffic through checkout to order and find where customers drop off, removing anomalies so the abandonment rate is real.
 
 **Recommendations.** I end each analysis with an action, an owner, and an expected impact.
 
 ## Stack
 
-`SQL` · `Python` · `Power BI` · `DAX` · `Power Query` · `dbt` · `Databricks` · `AWS` · `Shopify` · `GA4` · `Meta Ads` · `Excel`
+`SQL` · `Python` · `Power BI` · `Excel` · `DAX` · `Power Query` · `dbt` · `Databricks` · `AWS` · `Shopify` · `GA4` · `Meta Ads` · `Google Ads`
 
 ## Projects
 - **[Marketing Campaign Performance & Conversion Funnel Analysis with A/B Testing](https://github.com/ChinessKavin/Marketing-Funnel-Diagnostics-AB-Testing-Campaign-Performance-Analysis).** Python, Pandas,matplotlib,scipy.
