@@ -2,7 +2,7 @@
 
 **Business Intelligence & Data Analyst** · South Africa · Open to remote roles.
 
-Data Analyst with 3+ years of experience in e-commerce, marketing, and sales analytics. I help businesses answer difficult questions, like where to spend their money, which numbers they can trust, and where customers are dropping off.
+Data Analyst with 3+ years of experience in e-commerce, marketing, and sales analytics. Experienced in delivering end-to-end analytical solutions, turning business requirements into actionable insights.
 
 **Most of what I build answers one of three questions:** what should we buy or spend, can we trust this number, and where are customers dropping off.
 
