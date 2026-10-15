@@ -3,6 +3,7 @@
 **Business Intelligence & Data Analyst** · South Africa · Open to remote roles.
 
 Data Analyst with 3+ years of experience in e-commerce, marketing, and sales analytics. Experienced in delivering end-to-end analytical solutions, turning business requirements into actionable insights.
+I build the analytics layer for a US gaming publisher. I consolidate Shopify, referral, GA4, Google Ads and Meta Ads data into one dimensional model. I deliver it through KPI dashboards the team uses for Q4 planning.
 
 **Most of what I build answers one of three questions:** what should we buy or spend, can we trust this number, and where are customers dropping off.
 
